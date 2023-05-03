@@ -1,8 +1,8 @@
-<h1 align="center">Marco Luciano</h1>
+# <h1 align="center">Marco Luciano</h1>
 
-<h2 align="center">Full-Stack Software Engineer</h2>
+## <h2 align="center">Full-Stack Software Engineer</h2>
 
-<h3 align="center">Specializing in Front-End and Backend Development</h3>
+## <h3 align="center">Specializing in Front-End and Backend Development</h3>
 
 
 
