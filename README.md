@@ -28,9 +28,7 @@
 </p>
 
 <h3><strong>💻  TECHNOLOGIES & TOOLS</strong</h3>
-
-
-
+<p></p>
 <table style="border-collapse: collapse; border: 1px solid white; background-color: #0d1117;">
   <tr>
     <td><strong>Languages</strong></td>
