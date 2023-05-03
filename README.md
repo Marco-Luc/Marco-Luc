@@ -5,11 +5,7 @@
 
 <h3 align="center">Specializing in Front-End and Backend Development</h3>
 
-
-
 <h3><strong>👋 Hi there,</strong></h3>
-
-<p>
 
 <li>👀 I’m interested in ... Music, Basketball, Coding</li>
 
@@ -19,7 +15,6 @@
 
 <li>📫 How to reach me ... marco.luci95@gmail.com - https://www.linkedin.com/in/marco-luciano/</li>
 
-</p>
 
 <h3><strong>💾 PROJECTS </strong></h3>
 
