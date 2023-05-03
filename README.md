@@ -7,6 +7,8 @@
 
 <h3><strong>👋 Hi there,</strong></h3>
 
+<p>
+
 <li>👀 I’m interested in ... Music, Basketball, Coding</li>
 
 <li>🌱 I’m currently learning ... React, Node, Next.js</li>
@@ -15,6 +17,7 @@
 
 <li>📫 How to reach me ... marco.luci95@gmail.com - https://www.linkedin.com/in/marco-luciano/</li>
 
+</p>
 
 <h3><strong>💾 PROJECTS </strong></h3>
 
