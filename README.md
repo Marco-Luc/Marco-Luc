@@ -1,6 +1,7 @@
 <h1 align="center">Marco Luciano</h1>
 
 <h2 align="center">Full-Stack Software Engineer</h2>
+<br></br>
 
 <h3 align="center">Specializing in Front-End and Backend Development</h3>
 
@@ -28,7 +29,7 @@
 </p>
 
 <h3><strong>💻  TECHNOLOGIES & TOOLS</strong</h3>
-<p></p>
+<br></br>
 <table style="border-collapse: collapse; border: 1px solid white; background-color: #0d1117;">
   <tr>
     <td><strong>Languages</strong></td>
