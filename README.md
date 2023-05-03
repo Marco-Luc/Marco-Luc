@@ -42,8 +42,7 @@
     <td align="center" style="font-size: 10px;"><img src="https://camo.githubusercontent.com/2406788a5bdbf3d900427eecd883b5aa64c45435d14239f5eba9a2a08ac8dcd3/68747470733a2f2f6a737572742e6769746875622e696f2f6a61636b732d706f7274666f6c696f2f696d616765732f636f6c6f722d657870726573732d69636f6e2532302831292e706e67" height="48" width="48"/><br>Express</td>
     <td align="center" style="font-size: 10px;"><img src="https://img.icons8.com/office/40/000000/react.png" height="48" width="48"/><br>React</td>
   <td align="center" style="font-size: 10px;"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" height="48" width="48"/><br>Nextjs</td>
-    <td align="center" style="font-size: 10px;">
-        </tr>
+    <td align="center" style="font-size: 10px;"></tr>
   <tr>
     <td><strong>Databases</strong></td>
     <td align="center" style="font-size: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="48" width="48"/><br>MySQL</td>
