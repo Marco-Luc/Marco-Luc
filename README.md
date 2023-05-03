@@ -1,8 +1,8 @@
 # <h1 align="center">Marco Luciano</h1>
 
-## <h2 align="center">Full-Stack Software Engineer</h2>
+# <h2 align="center">Full-Stack Software Engineer</h2>
 
-## <h3 align="center">Specializing in Front-End and Backend Development</h3>
+# <h3 align="center">Specializing in Front-End and Backend Development</h3>
 
 
 
@@ -24,7 +24,7 @@
 
 [NBA - My Starting Five](https://github.com/Marco-Luc/nba-my-starting-five) - An interactive, full-stack NBA Stats Comparison/Basketball Card application where users can compare their favourite NBA player’s stats as well as enjoy some flippable digital basketball cards. Build using React, Node/Express
 
-[Friends Trivia Game - Hackathon Project] (https://github.com/Marco-Luc/friends-trivia-hackathon) - A full-stack Friends (TV Show) Trivia game built in 24 hours for one of BrainStation's hackathon projects.
+[Friends Trivia Game - Hackathon Project](https://github.com/Marco-Luc/friends-trivia-hackathon) - A full-stack Friends (TV Show) Trivia game built in 24 hours for one of BrainStation's hackathon projects.
 </p>
 
 <h3><strong>💻  TECHNOLOGIES & TOOLS</strong</h3>
