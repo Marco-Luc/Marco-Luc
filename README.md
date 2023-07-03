@@ -13,8 +13,6 @@
 
 <li>🌱 I’m currently learning ... React, Node, Next.js</li>
 
-<li>💞️ I’m looking to work in ... Software Engineering</li>
-
 <li>📫 How to reach me ... marco.luci95@gmail.com - https://www.linkedin.com/in/marco-luciano/</li>
 
 </p>
