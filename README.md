@@ -4,6 +4,8 @@
 
 <h3 align="center" style="padding-top:10px">Specializing in Front-End and Backend Development</h3>
 
+<br>
+
 <h3><strong>👋 Hi there,</strong></h3>
 
 <p>
