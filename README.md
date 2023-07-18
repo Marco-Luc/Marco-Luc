@@ -9,18 +9,23 @@
 
 <p>
 
-<li>👨‍💻  I currently work at CBC Radio Canada as a Front-End Developer</li>
+<li>I currently work at CBC Radio Canada as a Front-End Developer</li>
 
-<li>👀  I’m interested in Music, Basketball, Coding</li>
+<li>I’m interested in Music, Basketball and Coding</li>
 
-<li>🌱  I’m currently learning React, Node, Next.js</li>
+<li>I’m currently learning React, Node, Next.js</li>
 
 </p>
 
 <h3>📫 How to reach me:</h3>
-  <ul>
-    <li>marco.luci95@gmail.com</li>
-    <li>https://www.linkedin.com/in/marco-luciano/</li>
+
+<p>
+
+<li>marco.luci95@gmail.com</li>
+
+<li> https://www.linkedin.com/in/marco-luciano/</li>
+
+</p>
 
 <br>
 
