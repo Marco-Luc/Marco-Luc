@@ -9,6 +9,8 @@
 
 <p>
 
+<li>👨‍💻 I currently work at CBC Radio Canada as a Front-End Developer</li>
+
 <li>👀 I’m interested in ... Music, Basketball, Coding</li>
 
 <li>🌱 I’m currently learning ... React, Node, Next.js</li>
