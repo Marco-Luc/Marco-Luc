@@ -9,15 +9,20 @@
 
 <p>
 
-<li>👨‍💻 I currently work at CBC Radio Canada as a Front-End Developer</li>
+<li>👨‍💻  I currently work at CBC Radio Canada as a Front-End Developer</li>
 
-<li>👀 I’m interested in ... Music, Basketball, Coding</li>
+<li>👀  I’m interested in Music, Basketball, Coding</li>
 
-<li>🌱 I’m currently learning ... React, Node, Next.js</li>
-
-<li>📫 How to reach me ... marco.luci95@gmail.com - https://www.linkedin.com/in/marco-luciano/</li>
+<li>🌱  I’m currently learning React, Node, Next.js</li>
 
 </p>
+
+<h3>📫 How to reach me:</h3>
+  <ul>
+    <li>marco.luci95@gmail.com</li>
+    <li>https://www.linkedin.com/in/marco-luciano/</li>
+
+<br>
 
 <h3><strong>💾 PROJECTS </strong></h3>
 
@@ -25,6 +30,8 @@
 
 [Friends Trivia Game - Hackathon Project](https://github.com/Marco-Luc/friends-trivia-hackathon) - A full-stack Friends (TV Show) Trivia game built in 24 hours for one of BrainStation's hackathon projects.
 </p>
+
+<br>
 
 <h3><strong>💻  TECHNOLOGIES & TOOLS</strong</h3>
 <br></br>
